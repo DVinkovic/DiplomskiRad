@@ -1,4 +1,4 @@
 get<-function() {
-  x<-return(Sys.Date()-1)
+  x<-return(Sys.Date())
   return(x)
 }
